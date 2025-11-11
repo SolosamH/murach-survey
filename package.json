@@ -1,0 +1,15 @@
+{
+  "name": "murach-survey",
+  "version": "1.0.0",
+  "description": "Murach Survey Website - Static HTML Site",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server -p $PORT"
+  },
+  "keywords": ["html", "survey", "static"],
+  "author": "SolosamH",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
